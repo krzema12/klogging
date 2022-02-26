@@ -233,6 +233,7 @@ $dokka.location:io.klogging.sending//elkConnection/#io.klogging.sending.ElkEndpo
 $dokka.location:io.klogging.sending//elkSender/#io.klogging.sending.ElkEndpoint/PointingToDeclaration/-klogging/io.klogging.sending/elk-sender.html
 $dokka.location:io.klogging.sending//graylogServer/#io.klogging.sending.Endpoint/PointingToDeclaration/-klogging/io.klogging.sending/graylog-server.html
 $dokka.location:io.klogging.sending//hecConnection/#io.klogging.sending.SplunkEndpoint/PointingToDeclaration/-klogging/io.klogging.sending/hec-connection.html
+$dokka.location:io.klogging.sending//readAllTheBytes/java.io.InputStream#/PointingToDeclaration/-klogging/io.klogging.sending/read-all-the-bytes.html
 $dokka.location:io.klogging.sending//receiveBatch/#kotlinx.coroutines.channels.ReceiveChannel[TypeParam(bounds=[kotlin.Any?])]#kotlin.Long#kotlin.Int/PointingToDeclaration/-klogging/io.klogging.sending/receive-batch.html
 $dokka.location:io.klogging.sending//sendToElk/#io.klogging.sending.ElkEndpoint#kotlin.collections.List[io.klogging.events.LogEvent]/PointingToDeclaration/-klogging/io.klogging.sending/send-to-elk.html
 $dokka.location:io.klogging.sending//sendToGraylog/#io.klogging.sending.Endpoint#kotlin.String/PointingToDeclaration/-klogging/io.klogging.sending/send-to-graylog.html
