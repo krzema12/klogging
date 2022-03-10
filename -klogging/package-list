@@ -289,10 +289,12 @@ $dokka.location:io.klogging////PointingToDeclaration/-klogging/io.klogging/inde
 $dokka.location:io.klogging//LOGGERS/#/PointingToDeclaration/-klogging/io.klogging/-l-o-g-g-e-r-s.html
 $dokka.location:io.klogging//NOCO_LOGGERS/#/PointingToDeclaration/-klogging/io.klogging/-n-o-c-o_-l-o-g-g-e-r-s.html
 $dokka.location:io.klogging//classNameOf/#kotlin.reflect.KClass[*]/PointingToDeclaration/-klogging/io.klogging/class-name-of.html
+$dokka.location:io.klogging//logger/#/PointingToDeclaration/-klogging/io.klogging/logger.html
 $dokka.location:io.klogging//logger/#kotlin.String/PointingToDeclaration/-klogging/io.klogging/logger.html
 $dokka.location:io.klogging//logger/#kotlin.reflect.KClass[*]/PointingToDeclaration/-klogging/io.klogging/logger.html
 $dokka.location:io.klogging//loggerFor/#kotlin.String?/PointingToDeclaration/-klogging/io.klogging/logger-for.html
 $dokka.location:io.klogging//messageAndStackTrace/#kotlin.Any?#kotlin.Throwable?/PointingToDeclaration/-klogging/io.klogging/message-and-stack-trace.html
+$dokka.location:io.klogging//noCoLogger/#/PointingToDeclaration/-klogging/io.klogging/no-co-logger.html
 $dokka.location:io.klogging//noCoLogger/#kotlin.String/PointingToDeclaration/-klogging/io.klogging/no-co-logger.html
 $dokka.location:io.klogging//noCoLogger/#kotlin.reflect.KClass[*]/PointingToDeclaration/-klogging/io.klogging/no-co-logger.html
 $dokka.location:io.klogging//noCoLoggerFor/#kotlin.String?/PointingToDeclaration/-klogging/io.klogging/no-co-logger-for.html
