@@ -104,8 +104,8 @@ $dokka.location:io.klogging.config/SinkConfiguration/eventSender/#/PointingToDec
 $dokka.location:io.klogging.config/SinkConfiguration/renderer/#/PointingToDeclaration/-klogging/io.klogging.config/-sink-configuration/renderer.html
 $dokka.location:io.klogging.config/SinkConfiguration/stringSender/#/PointingToDeclaration/-klogging/io.klogging.config/-sink-configuration/string-sender.html
 $dokka.location:io.klogging.context////PointingToDeclaration/-klogging/io.klogging.context/index.html
-$dokka.location:io.klogging.context//addToContext/#kotlin.Array[kotlin.Pair[kotlin.String,kotlin.Any?]]/PointingToDeclaration/-klogging/io.klogging.context/add-to-context.html
-$dokka.location:io.klogging.context//logContext/#kotlin.Array[kotlin.Pair[kotlin.String,kotlin.Any?]]/PointingToDeclaration/-klogging/io.klogging.context/log-context.html
+$dokka.location:io.klogging.context//addToContext/#kotlin.Array[Pair<String, Any?>[kotlin.String,kotlin.Any?]]/PointingToDeclaration/-klogging/io.klogging.context/add-to-context.html
+$dokka.location:io.klogging.context//logContext/#kotlin.Array[Pair<String, Any?>[kotlin.String,kotlin.Any?]]/PointingToDeclaration/-klogging/io.klogging.context/log-context.html
 $dokka.location:io.klogging.context//removeFromContext/#kotlin.Array[kotlin.String]/PointingToDeclaration/-klogging/io.klogging.context/remove-from-context.html
 $dokka.location:io.klogging.context/LogContext.Key///PointingToDeclaration/-klogging/io.klogging.context/-log-context/-key/index.html
 $dokka.location:io.klogging.context/LogContext///PointingToDeclaration/-klogging/io.klogging.context/-log-context/index.html
@@ -113,17 +113,17 @@ $dokka.location:io.klogging.context/LogContext/LogContext/#kotlin.collections.Mu
 $dokka.location:io.klogging.context/LogContext/get/#kotlin.String/PointingToDeclaration/-klogging/io.klogging.context/-log-context/get.html
 $dokka.location:io.klogging.context/LogContext/getAll/#/PointingToDeclaration/-klogging/io.klogging.context/-log-context/get-all.html
 $dokka.location:io.klogging.context/LogContext/items/#/PointingToDeclaration/-klogging/io.klogging.context/-log-context/items.html
-$dokka.location:io.klogging.context/LogContext/putItems/#kotlin.Array[kotlin.Pair[kotlin.String,kotlin.Any?]]/PointingToDeclaration/-klogging/io.klogging.context/-log-context/put-items.html
+$dokka.location:io.klogging.context/LogContext/putItems/#kotlin.Array[Pair<String, Any?>[kotlin.String,kotlin.Any?]]/PointingToDeclaration/-klogging/io.klogging.context/-log-context/put-items.html
 $dokka.location:io.klogging.context/LogContext/removeItem/#kotlin.Array[kotlin.String]/PointingToDeclaration/-klogging/io.klogging.context/-log-context/remove-item.html
 $dokka.location:io.klogging.context/LogContext/toString/#/PointingToDeclaration/-klogging/io.klogging.context/-log-context/to-string.html
 $dokka.location:io.klogging.events////PointingToDeclaration/-klogging/io.klogging.events/index.html
 $dokka.location:io.klogging.events//currentContext/#/PointingToDeclaration/-klogging/io.klogging.events/current-context.html
-$dokka.location:io.klogging.events//decimalSeconds/kotlinx.datetime.Instant#/PointingToDeclaration/-klogging/io.klogging.events/decimal-seconds.html
+$dokka.location:io.klogging.events//decimalSeconds/Instant#/PointingToDeclaration/-klogging/io.klogging.events/decimal-seconds.html
 $dokka.location:io.klogging.events//hostname/#/PointingToDeclaration/-klogging/io.klogging.events/hostname.html
 $dokka.location:io.klogging.events//randomId/#/PointingToDeclaration/-klogging/io.klogging.events/random-id.html
-$dokka.location:io.klogging.events//timestampNow/#kotlinx.datetime.Clock/PointingToDeclaration/-klogging/io.klogging.events/timestamp-now.html
+$dokka.location:io.klogging.events//timestampNow/#Clock/PointingToDeclaration/-klogging/io.klogging.events/timestamp-now.html
 $dokka.location:io.klogging.events/LogEvent///PointingToDeclaration/-klogging/io.klogging.events/-log-event/index.html
-$dokka.location:io.klogging.events/LogEvent/LogEvent/#kotlin.String#kotlinx.datetime.Instant#kotlin.String#kotlin.String#kotlin.String?#io.klogging.Level#kotlin.String?#kotlin.String#kotlin.String?#kotlin.collections.Map[kotlin.String,kotlin.Any?]/PointingToDeclaration/-klogging/io.klogging.events/-log-event/-log-event.html
+$dokka.location:io.klogging.events/LogEvent/LogEvent/#kotlin.String#Instant#kotlin.String#kotlin.String#kotlin.String?#io.klogging.Level#kotlin.String?#kotlin.String#kotlin.String?#kotlin.collections.Map[kotlin.String,kotlin.Any?]/PointingToDeclaration/-klogging/io.klogging.events/-log-event/-log-event.html
 $dokka.location:io.klogging.events/LogEvent/context/#/PointingToDeclaration/-klogging/io.klogging.events/-log-event/context.html
 $dokka.location:io.klogging.events/LogEvent/copyWith/#io.klogging.Level#kotlin.String?#kotlin.collections.Map[kotlin.String,kotlin.Any?]/PointingToDeclaration/-klogging/io.klogging.events/-log-event/copy-with.html
 $dokka.location:io.klogging.events/LogEvent/host/#/PointingToDeclaration/-klogging/io.klogging.events/-log-event/host.html
@@ -212,11 +212,11 @@ $dokka.location:io.klogging.rendering//brightRed/#kotlin.String/PointingToDeclar
 $dokka.location:io.klogging.rendering//colour5/io.klogging.Level#/PointingToDeclaration/-klogging/io.klogging.rendering/colour5.html
 $dokka.location:io.klogging.rendering//compressLoggerName/#kotlin.String#kotlin.Int/PointingToDeclaration/-klogging/io.klogging.rendering/compress-logger-name.html
 $dokka.location:io.klogging.rendering//evalTemplate/io.klogging.events.LogEvent#/PointingToDeclaration/-klogging/io.klogging.rendering/eval-template.html
-$dokka.location:io.klogging.rendering//graylogFormat/kotlinx.datetime.Instant#/PointingToDeclaration/-klogging/io.klogging.rendering/graylog-format.html
+$dokka.location:io.klogging.rendering//graylogFormat/Instant#/PointingToDeclaration/-klogging/io.klogging.rendering/graylog-format.html
 $dokka.location:io.klogging.rendering//green/#kotlin.String/PointingToDeclaration/-klogging/io.klogging.rendering/green.html
 $dokka.location:io.klogging.rendering//grey/#kotlin.String/PointingToDeclaration/-klogging/io.klogging.rendering/grey.html
-$dokka.location:io.klogging.rendering//localString/kotlinx.datetime.Instant#/PointingToDeclaration/-klogging/io.klogging.rendering/local-string.html
-$dokka.location:io.klogging.rendering//localTime/kotlinx.datetime.Instant#/PointingToDeclaration/-klogging/io.klogging.rendering/local-time.html
+$dokka.location:io.klogging.rendering//localString/Instant#/PointingToDeclaration/-klogging/io.klogging.rendering/local-string.html
+$dokka.location:io.klogging.rendering//localTime/Instant#/PointingToDeclaration/-klogging/io.klogging.rendering/local-time.html
 $dokka.location:io.klogging.rendering//primitive/#kotlin.Any/PointingToDeclaration/-klogging/io.klogging.rendering/primitive.html
 $dokka.location:io.klogging.rendering//red/#kotlin.String/PointingToDeclaration/-klogging/io.klogging.rendering/red.html
 $dokka.location:io.klogging.rendering//right20/kotlin.String#/PointingToDeclaration/-klogging/io.klogging.rendering/right20.html
@@ -236,7 +236,7 @@ $dokka.location:io.klogging.sending//elkSender/#io.klogging.sending.ElkEndpoint/
 $dokka.location:io.klogging.sending//graylogServer/#io.klogging.sending.Endpoint/PointingToDeclaration/-klogging/io.klogging.sending/graylog-server.html
 $dokka.location:io.klogging.sending//hecConnection/#io.klogging.sending.SplunkEndpoint/PointingToDeclaration/-klogging/io.klogging.sending/hec-connection.html
 $dokka.location:io.klogging.sending//readAllTheBytes/java.io.InputStream#/PointingToDeclaration/-klogging/io.klogging.sending/read-all-the-bytes.html
-$dokka.location:io.klogging.sending//receiveBatch/#kotlinx.coroutines.channels.ReceiveChannel[TypeParam(bounds=[kotlin.Any?])]#kotlin.Long#kotlin.Int/PointingToDeclaration/-klogging/io.klogging.sending/receive-batch.html
+$dokka.location:io.klogging.sending//receiveBatch/#ReceiveChannel<E>[TypeParam(bounds=[kotlin.Any?])]#kotlin.Long#kotlin.Int/PointingToDeclaration/-klogging/io.klogging.sending/receive-batch.html
 $dokka.location:io.klogging.sending//sendToElk/#io.klogging.sending.ElkEndpoint#kotlin.collections.List[io.klogging.events.LogEvent]/PointingToDeclaration/-klogging/io.klogging.sending/send-to-elk.html
 $dokka.location:io.klogging.sending//sendToGraylog/#io.klogging.sending.Endpoint#kotlin.String/PointingToDeclaration/-klogging/io.klogging.sending/send-to-graylog.html
 $dokka.location:io.klogging.sending//sendToSeq/#kotlin.String#kotlin.String/PointingToDeclaration/-klogging/io.klogging.sending/send-to-seq.html
