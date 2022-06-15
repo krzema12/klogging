@@ -19,6 +19,8 @@ $dokka.location:io.klogging.config//loggingConfiguration/#kotlin.Boolean#kotlin.
 $dokka.location:io.klogging.config//seq/#kotlin.String#kotlin.Function1[io.klogging.events.LogEvent,kotlin.String]/PointingToDeclaration/-klogging/io.klogging.config/seq.html
 $dokka.location:io.klogging.config/ConfigDsl///PointingToDeclaration/-klogging/io.klogging.config/-config-dsl/index.html
 $dokka.location:io.klogging.config/ConfigDsl/ConfigDsl/#/PointingToDeclaration/-klogging/io.klogging.config/-config-dsl/-config-dsl.html
+$dokka.location:io.klogging.config/ContextConfig///PointingToDeclaration/-klogging/io.klogging.config/-context-config/index.html
+$dokka.location:io.klogging.config/ContextConfig/addContextItemExtractor/#kotlin.coroutines.CoroutineContext.Key[*]#kotlin.Function1[kotlin.coroutines.CoroutineContext.Element,kotlin.collections.Map[kotlin.String,kotlin.Any?]]/PointingToDeclaration/-klogging/io.klogging.config/-context-config/add-context-item-extractor.html
 $dokka.location:io.klogging.config/JsonConfiguration///PointingToDeclaration/-klogging/io.klogging.config/-json-configuration/index.html
 $dokka.location:io.klogging.config/JsonConfiguration/JsonConfiguration/#kotlin.String?#io.klogging.Level#kotlin.collections.Map[kotlin.String,io.klogging.config.JsonSinkConfiguration]#kotlin.collections.List[io.klogging.config.JsonLoggingConfig]/PointingToDeclaration/-klogging/io.klogging.config/-json-configuration/-json-configuration.html
 $dokka.location:io.klogging.config/JsonConfiguration/configName/#/PointingToDeclaration/-klogging/io.klogging.config/-json-configuration/config-name.html
@@ -46,7 +48,6 @@ $dokka.location:io.klogging.config/JsonSinkConfiguration/seqServer/#/PointingToD
 $dokka.location:io.klogging.config/JsonSinkConfiguration/splunkServer/#/PointingToDeclaration/-klogging/io.klogging.config/-json-sink-configuration/splunk-server.html
 $dokka.location:io.klogging.config/KloggingConfiguration///PointingToDeclaration/-klogging/io.klogging.config/-klogging-configuration/index.html
 $dokka.location:io.klogging.config/KloggingConfiguration/KloggingConfiguration/#/PointingToDeclaration/-klogging/io.klogging.config/-klogging-configuration/-klogging-configuration.html
-$dokka.location:io.klogging.config/KloggingConfiguration/addContextItemExtractor/#kotlin.coroutines.CoroutineContext.Key[*]#kotlin.Function1[kotlin.coroutines.CoroutineContext.Element,kotlin.collections.Map[kotlin.String,kotlin.Any?]]/PointingToDeclaration/-klogging/io.klogging.config/-klogging-configuration/add-context-item-extractor.html
 $dokka.location:io.klogging.config/KloggingConfiguration/kloggingMinLevel/#io.klogging.Level/PointingToDeclaration/-klogging/io.klogging.config/-klogging-configuration/klogging-min-level.html
 $dokka.location:io.klogging.config/KloggingConfiguration/logging/#kotlin.Function1[io.klogging.config.LoggingConfig,kotlin.Unit]/PointingToDeclaration/-klogging/io.klogging.config/-klogging-configuration/logging.html
 $dokka.location:io.klogging.config/KloggingConfiguration/minimumLevelOf/#kotlin.String/PointingToDeclaration/-klogging/io.klogging.config/-klogging-configuration/minimum-level-of.html
@@ -107,8 +108,6 @@ $dokka.location:io.klogging.impl/NoCoLoggerImpl/coroutineContext/#/PointingToDec
 $dokka.location:io.klogging.impl/NoCoLoggerImpl/e/#kotlin.String#kotlin.Array[kotlin.Any?]/PointingToDeclaration/-klogging/io.klogging.impl/-no-co-logger-impl/e.html
 $dokka.location:io.klogging.impl/NoCoLoggerImpl/emitEvent/#io.klogging.Level#kotlin.Throwable?#kotlin.Any?#kotlin.collections.Map[kotlin.String,kotlin.Any?]/PointingToDeclaration/-klogging/io.klogging.impl/-no-co-logger-impl/emit-event.html
 $dokka.location:io.klogging.impl/NoCoLoggerImpl/name/#/PointingToDeclaration/-klogging/io.klogging.impl/-no-co-logger-impl/name.html
-$dokka.location:io.klogging.internal////PointingToDeclaration/-klogging/io.klogging.internal/index.html
-$dokka.location:io.klogging.internal/KloggingEngine///PointingToDeclaration/-klogging/io.klogging.internal/-klogging-engine/index.html
 $dokka.location:io.klogging.java////PointingToDeclaration/-klogging/io.klogging.java/index.html
 $dokka.location:io.klogging.java/LoggerFactory///PointingToDeclaration/-klogging/io.klogging.java/-logger-factory/index.html
 $dokka.location:io.klogging.java/LoggerFactory/getLogger/#java.lang.Class<?>/PointingToDeclaration/-klogging/io.klogging.java/-logger-factory/get-logger.html
@@ -287,7 +286,6 @@ io.klogging.config
 io.klogging.context
 io.klogging.events
 io.klogging.impl
-io.klogging.internal
 io.klogging.java
 io.klogging.rendering
 io.klogging.sending
