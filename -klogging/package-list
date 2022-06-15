@@ -21,7 +21,7 @@ $dokka.location:io.klogging.config/ConfigDsl///PointingToDeclaration/-klogging/
 $dokka.location:io.klogging.config/ConfigDsl/ConfigDsl/#/PointingToDeclaration/-klogging/io.klogging.config/-config-dsl/-config-dsl.html
 $dokka.location:io.klogging.config/Context///PointingToDeclaration/-klogging/io.klogging.config/-context/index.html
 $dokka.location:io.klogging.config/Context/addBaseContext/#kotlin.Array[kotlin.Pair[kotlin.String,kotlin.Any?]]/PointingToDeclaration/-klogging/io.klogging.config/-context/add-base-context.html
-$dokka.location:io.klogging.config/Context/addContextItemExtractor/#kotlin.coroutines.CoroutineContext.Key[*]#kotlin.Function1[kotlin.coroutines.CoroutineContext.Element,kotlin.collections.Map[kotlin.String,kotlin.Any?]]/PointingToDeclaration/-klogging/io.klogging.config/-context/add-context-item-extractor.html
+$dokka.location:io.klogging.config/Context/addContextItemExtractor/#kotlin.coroutines.CoroutineContext.Key[*]#kotlin.coroutines.SuspendFunction1[kotlin.coroutines.CoroutineContext.Element,kotlin.collections.Map[kotlin.String,kotlin.Any?]]/PointingToDeclaration/-klogging/io.klogging.config/-context/add-context-item-extractor.html
 $dokka.location:io.klogging.config/Context/clearBaseContext/#/PointingToDeclaration/-klogging/io.klogging.config/-context/clear-base-context.html
 $dokka.location:io.klogging.config/Context/removeBaseContext/#kotlin.Array[kotlin.String]/PointingToDeclaration/-klogging/io.klogging.config/-context/remove-base-context.html
 $dokka.location:io.klogging.config/JsonConfiguration///PointingToDeclaration/-klogging/io.klogging.config/-json-configuration/index.html
