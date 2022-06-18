@@ -43,8 +43,7 @@ $dokka.location:io.klogging.config/JsonLoggingConfig/levelRanges/#/PointingToDec
 $dokka.location:io.klogging.config/JsonLoggingConfig/matchLogger/#/PointingToDeclaration/-klogging/io.klogging.config/-json-logging-config/match-logger.html
 $dokka.location:io.klogging.config/JsonLoggingConfig/stopOnMatch/#/PointingToDeclaration/-klogging/io.klogging.config/-json-logging-config/stop-on-match.html
 $dokka.location:io.klogging.config/JsonSinkConfiguration///PointingToDeclaration/-klogging/io.klogging.config/-json-sink-configuration/index.html
-$dokka.location:io.klogging.config/JsonSinkConfiguration/JsonSinkConfiguration/#kotlin.String?#kotlin.String?#kotlin.String?#kotlin.String?#io.klogging.sending.SplunkEndpoint?/PointingToDeclaration/-klogging/io.klogging.config/-json-sink-configuration/-json-sink-configuration.html
-$dokka.location:io.klogging.config/JsonSinkConfiguration/dispatchTo/#/PointingToDeclaration/-klogging/io.klogging.config/-json-sink-configuration/dispatch-to.html
+$dokka.location:io.klogging.config/JsonSinkConfiguration/JsonSinkConfiguration/#kotlin.String?#kotlin.String?#kotlin.String?#io.klogging.sending.SplunkEndpoint?/PointingToDeclaration/-klogging/io.klogging.config/-json-sink-configuration/-json-sink-configuration.html
 $dokka.location:io.klogging.config/JsonSinkConfiguration/renderWith/#/PointingToDeclaration/-klogging/io.klogging.config/-json-sink-configuration/render-with.html
 $dokka.location:io.klogging.config/JsonSinkConfiguration/sendTo/#/PointingToDeclaration/-klogging/io.klogging.config/-json-sink-configuration/send-to.html
 $dokka.location:io.klogging.config/JsonSinkConfiguration/seqServer/#/PointingToDeclaration/-klogging/io.klogging.config/-json-sink-configuration/seq-server.html
