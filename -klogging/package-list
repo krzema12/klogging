@@ -17,7 +17,6 @@ $dokka.location:io.klogging.config//graylog/#kotlin.String#kotlin.Int#kotlin.Fun
 $dokka.location:io.klogging.config//loggingConfiguration/#kotlin.Boolean#kotlin.Function1[io.klogging.config.KloggingConfiguration,kotlin.Unit]/PointingToDeclaration/-klogging/io.klogging.config/logging-configuration.html
 $dokka.location:io.klogging.config//seq/#kotlin.String#kotlin.Function1[io.klogging.events.LogEvent,kotlin.String]/PointingToDeclaration/-klogging/io.klogging.config/seq.html
 $dokka.location:io.klogging.config/ConfigDsl///PointingToDeclaration/-klogging/io.klogging.config/-config-dsl/index.html
-$dokka.location:io.klogging.config/ConfigDsl/ConfigDsl/#/PointingToDeclaration/-klogging/io.klogging.config/-config-dsl/-config-dsl.html
 $dokka.location:io.klogging.config/Context///PointingToDeclaration/-klogging/io.klogging.config/-context/index.html
 $dokka.location:io.klogging.config/Context/addBaseContext/#kotlin.Array[kotlin.Pair[kotlin.String,kotlin.Any?]]/PointingToDeclaration/-klogging/io.klogging.config/-context/add-base-context.html
 $dokka.location:io.klogging.config/Context/addContextItemExtractor/#kotlin.coroutines.CoroutineContext.Key[TypeParam(bounds=[kotlin.coroutines.CoroutineContext.Element])]#kotlin.coroutines.SuspendFunction1[TypeParam(bounds=[kotlin.coroutines.CoroutineContext.Element]),kotlin.collections.Map[kotlin.String,kotlin.Any?]]/PointingToDeclaration/-klogging/io.klogging.config/-context/add-context-item-extractor.html
@@ -239,6 +238,8 @@ $dokka.location:io.klogging/Level.NONE///PointingToDeclaration/{"org.jetbrains.d
 $dokka.location:io.klogging/Level.TRACE///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}-klogging/io.klogging/-level/-t-r-a-c-e/index.html
 $dokka.location:io.klogging/Level.WARN///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}-klogging/io.klogging/-level/-w-a-r-n/index.html
 $dokka.location:io.klogging/Level///PointingToDeclaration/-klogging/io.klogging/-level/index.html
+$dokka.location:io.klogging/Level/valueOf/#kotlin.String/PointingToDeclaration/-klogging/io.klogging/-level/value-of.html
+$dokka.location:io.klogging/Level/values/#/PointingToDeclaration/-klogging/io.klogging/-level/values.html
 $dokka.location:io.klogging/NoCoLogger///PointingToDeclaration/-klogging/io.klogging/-no-co-logger/index.html
 $dokka.location:io.klogging/NoCoLogger/debug/#kotlin.Any?/PointingToDeclaration/-klogging/io.klogging/-no-co-logger/debug.html
 $dokka.location:io.klogging/NoCoLogger/debug/#kotlin.Function1[io.klogging.NoCoLogger,kotlin.Any?]/PointingToDeclaration/-klogging/io.klogging/-no-co-logger/debug.html
