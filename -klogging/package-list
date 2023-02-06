@@ -23,10 +23,11 @@ $dokka.location:io.klogging.config/Context/addContextItemExtractor/#kotlin.corou
 $dokka.location:io.klogging.config/Context/clearBaseContext/#/PointingToDeclaration/-klogging/io.klogging.config/-context/clear-base-context.html
 $dokka.location:io.klogging.config/Context/removeBaseContext/#kotlin.Array[kotlin.String]/PointingToDeclaration/-klogging/io.klogging.config/-context/remove-base-context.html
 $dokka.location:io.klogging.config/FileConfiguration///PointingToDeclaration/-klogging/io.klogging.config/-file-configuration/index.html
-$dokka.location:io.klogging.config/FileConfiguration/FileConfiguration/#kotlin.String?#io.klogging.Level#kotlin.collections.Map[kotlin.String,io.klogging.config.FileSinkConfiguration]#kotlin.collections.List[io.klogging.config.FileLoggingConfig]/PointingToDeclaration/-klogging/io.klogging.config/-file-configuration/-file-configuration.html
+$dokka.location:io.klogging.config/FileConfiguration/FileConfiguration/#kotlin.String?#io.klogging.Level#io.klogging.Level#kotlin.collections.Map[kotlin.String,io.klogging.config.FileSinkConfiguration]#kotlin.collections.List[io.klogging.config.FileLoggingConfig]/PointingToDeclaration/-klogging/io.klogging.config/-file-configuration/-file-configuration.html
 $dokka.location:io.klogging.config/FileConfiguration/configName/#/PointingToDeclaration/-klogging/io.klogging.config/-file-configuration/config-name.html
 $dokka.location:io.klogging.config/FileConfiguration/kloggingMinLogLevel/#/PointingToDeclaration/-klogging/io.klogging.config/-file-configuration/klogging-min-log-level.html
 $dokka.location:io.klogging.config/FileConfiguration/logging/#/PointingToDeclaration/-klogging/io.klogging.config/-file-configuration/logging.html
+$dokka.location:io.klogging.config/FileConfiguration/minDirectLogLevel/#/PointingToDeclaration/-klogging/io.klogging.config/-file-configuration/min-direct-log-level.html
 $dokka.location:io.klogging.config/FileConfiguration/sinks/#/PointingToDeclaration/-klogging/io.klogging.config/-file-configuration/sinks.html
 $dokka.location:io.klogging.config/FileLevelRange///PointingToDeclaration/-klogging/io.klogging.config/-file-level-range/index.html
 $dokka.location:io.klogging.config/FileLevelRange/FileLevelRange/#io.klogging.Level?#io.klogging.Level?#kotlin.collections.List[kotlin.String]/PointingToDeclaration/-klogging/io.klogging.config/-file-level-range/-file-level-range.html
@@ -54,6 +55,7 @@ $dokka.location:io.klogging.config/KloggingConfiguration///PointingToDeclaration
 $dokka.location:io.klogging.config/KloggingConfiguration/KloggingConfiguration/#/PointingToDeclaration/-klogging/io.klogging.config/-klogging-configuration/-klogging-configuration.html
 $dokka.location:io.klogging.config/KloggingConfiguration/kloggingMinLevel/#io.klogging.Level/PointingToDeclaration/-klogging/io.klogging.config/-klogging-configuration/klogging-min-level.html
 $dokka.location:io.klogging.config/KloggingConfiguration/logging/#kotlin.Function1[io.klogging.config.LoggingConfig,kotlin.Unit]/PointingToDeclaration/-klogging/io.klogging.config/-klogging-configuration/logging.html
+$dokka.location:io.klogging.config/KloggingConfiguration/minDirectLogLevel/#io.klogging.Level/PointingToDeclaration/-klogging/io.klogging.config/-klogging-configuration/min-direct-log-level.html
 $dokka.location:io.klogging.config/KloggingConfiguration/minimumLevelOf/#kotlin.String/PointingToDeclaration/-klogging/io.klogging.config/-klogging-configuration/minimum-level-of.html
 $dokka.location:io.klogging.config/KloggingConfiguration/sink/#kotlin.String#io.klogging.config.SinkConfiguration/PointingToDeclaration/-klogging/io.klogging.config/-klogging-configuration/sink.html
 $dokka.location:io.klogging.config/KloggingConfiguration/sink/#kotlin.String#kotlin.Function1[io.klogging.events.LogEvent,kotlin.String]#kotlin.coroutines.SuspendFunction1[kotlin.String,kotlin.Unit]/PointingToDeclaration/-klogging/io.klogging.config/-klogging-configuration/sink.html
