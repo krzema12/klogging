@@ -53,7 +53,7 @@ $dokka.location:io.klogging.config/JsonConfiguration///PointingToDeclaration/-k
 $dokka.location:io.klogging.config/JsonConfiguration/configure/#kotlin.String/PointingToDeclaration/-klogging/io.klogging.config/-json-configuration/configure.html
 $dokka.location:io.klogging.config/KloggingConfiguration///PointingToDeclaration/-klogging/io.klogging.config/-klogging-configuration/index.html
 $dokka.location:io.klogging.config/KloggingConfiguration/KloggingConfiguration/#/PointingToDeclaration/-klogging/io.klogging.config/-klogging-configuration/-klogging-configuration.html
-$dokka.location:io.klogging.config/KloggingConfiguration/kloggingMinLevel/#io.klogging.Level/PointingToDeclaration/-klogging/io.klogging.config/-klogging-configuration/klogging-min-level.html
+$dokka.location:io.klogging.config/KloggingConfiguration/kloggingMinLogLevel/#io.klogging.Level/PointingToDeclaration/-klogging/io.klogging.config/-klogging-configuration/klogging-min-log-level.html
 $dokka.location:io.klogging.config/KloggingConfiguration/logging/#kotlin.Function1[io.klogging.config.LoggingConfig,kotlin.Unit]/PointingToDeclaration/-klogging/io.klogging.config/-klogging-configuration/logging.html
 $dokka.location:io.klogging.config/KloggingConfiguration/minDirectLogLevel/#io.klogging.Level/PointingToDeclaration/-klogging/io.klogging.config/-klogging-configuration/min-direct-log-level.html
 $dokka.location:io.klogging.config/KloggingConfiguration/minimumLevelOf/#kotlin.String/PointingToDeclaration/-klogging/io.klogging.config/-klogging-configuration/minimum-level-of.html
