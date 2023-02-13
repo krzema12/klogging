@@ -7,7 +7,7 @@ $dokka.location:io.klogging.config//STDOUT_ANSI/#/PointingToDeclaration/-kloggi
 $dokka.location:io.klogging.config//STDOUT_SIMPLE/#/PointingToDeclaration/-klogging/io.klogging.config/-s-t-d-o-u-t_-s-i-m-p-l-e.html
 $dokka.location:io.klogging.config//configLoadedFromFile/#/PointingToDeclaration/-klogging/io.klogging.config/config-loaded-from-file.html
 $dokka.location:io.klogging.config//evalEnv/#kotlin.String#kotlin.collections.Map[kotlin.String,kotlin.String]/PointingToDeclaration/-klogging/io.klogging.config/eval-env.html
-$dokka.location:io.klogging.config//findJsonConfigText/#/PointingToDeclaration/-klogging/io.klogging.config/find-json-config-text.html
+$dokka.location:io.klogging.config//findFileConfigText/#/PointingToDeclaration/-klogging/io.klogging.config/find-file-config-text.html
 $dokka.location:io.klogging.config//getenv/#kotlin.String#kotlin.String/PointingToDeclaration/-klogging/io.klogging.config/getenv.html
 $dokka.location:io.klogging.config//getenv/#kotlin.String/PointingToDeclaration/-klogging/io.klogging.config/getenv.html
 $dokka.location:io.klogging.config//getenvBoolean/#kotlin.String#kotlin.Boolean/PointingToDeclaration/-klogging/io.klogging.config/getenv-boolean.html
