@@ -80,6 +80,7 @@ $dokka.location:io.klogging.context////PointingToDeclaration/-klogging/io.klogg
 $dokka.location:io.klogging.context//addToContext/#kotlin.Array[kotlin.Pair[kotlin.String,kotlin.Any?]]/PointingToDeclaration/-klogging/io.klogging.context/add-to-context.html
 $dokka.location:io.klogging.context//logContext/#kotlin.Array[kotlin.Pair[kotlin.String,kotlin.Any?]]/PointingToDeclaration/-klogging/io.klogging.context/log-context.html
 $dokka.location:io.klogging.context//removeFromContext/#kotlin.Array[kotlin.String]/PointingToDeclaration/-klogging/io.klogging.context/remove-from-context.html
+$dokka.location:io.klogging.context//withLogContext/#kotlin.Array[kotlin.Pair[kotlin.String,kotlin.Any?]]#kotlin.coroutines.SuspendFunction1[kotlinx.coroutines.CoroutineScope,TypeParam(bounds=[kotlin.Any?])]/PointingToDeclaration/-klogging/io.klogging.context/with-log-context.html
 $dokka.location:io.klogging.context/LogContext.Key///PointingToDeclaration/-klogging/io.klogging.context/-log-context/-key/index.html
 $dokka.location:io.klogging.context/LogContext///PointingToDeclaration/-klogging/io.klogging.context/-log-context/index.html
 $dokka.location:io.klogging.context/LogContext/get/#kotlin.String/PointingToDeclaration/-klogging/io.klogging.context/-log-context/get.html
