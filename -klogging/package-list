@@ -168,7 +168,7 @@ $dokka.location:io.klogging//noCoLogger/#kotlin.String/PointingToDeclaration/-k
 $dokka.location:io.klogging//noCoLogger/#kotlin.reflect.KClass[*]/PointingToDeclaration/-klogging/io.klogging/no-co-logger.html
 $dokka.location:io.klogging//syslog/io.klogging.Level#/PointingToDeclaration/-klogging/io.klogging/syslog.html
 $dokka.location:io.klogging/BaseLogger///PointingToDeclaration/-klogging/io.klogging/-base-logger/index.html
-$dokka.location:io.klogging/BaseLogger/eventFrom/#io.klogging.Level#kotlin.Throwable?#kotlin.Any?#kotlin.collections.Map[kotlin.String,kotlin.Any?]/PointingToDeclaration/-klogging/io.klogging/-base-logger/event-from.html
+$dokka.location:io.klogging/BaseLogger/eventFrom/#kotlin.String?#io.klogging.Level#kotlin.Throwable?#kotlin.Any?#kotlin.collections.Map[kotlin.String,kotlin.Any?]/PointingToDeclaration/-klogging/io.klogging/-base-logger/event-from.html
 $dokka.location:io.klogging/BaseLogger/isDebugEnabled/#/PointingToDeclaration/-klogging/io.klogging/-base-logger/is-debug-enabled.html
 $dokka.location:io.klogging/BaseLogger/isErrorEnabled/#/PointingToDeclaration/-klogging/io.klogging/-base-logger/is-error-enabled.html
 $dokka.location:io.klogging/BaseLogger/isFatalEnabled/#/PointingToDeclaration/-klogging/io.klogging/-base-logger/is-fatal-enabled.html
