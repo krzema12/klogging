@@ -125,7 +125,6 @@ $dokka.location:io.klogging.rendering//RENDER_GELF/#/PointingToDeclaration/-klo
 $dokka.location:io.klogging.rendering//RENDER_SIMPLE/#/PointingToDeclaration/-klogging/io.klogging.rendering/-r-e-n-d-e-r_-s-i-m-p-l-e.html
 $dokka.location:io.klogging.rendering//brightRed/#kotlin.String/PointingToDeclaration/-klogging/io.klogging.rendering/bright-red.html
 $dokka.location:io.klogging.rendering//colour5/io.klogging.Level#/PointingToDeclaration/-klogging/io.klogging.rendering/colour5.html
-$dokka.location:io.klogging.rendering//compressLoggerName/#kotlin.String#kotlin.Int/PointingToDeclaration/-klogging/io.klogging.rendering/compress-logger-name.html
 $dokka.location:io.klogging.rendering//evalTemplate/io.klogging.events.LogEvent#/PointingToDeclaration/-klogging/io.klogging.rendering/eval-template.html
 $dokka.location:io.klogging.rendering//graylogFormat/kotlinx.datetime.Instant#/PointingToDeclaration/-klogging/io.klogging.rendering/graylog-format.html
 $dokka.location:io.klogging.rendering//green/#kotlin.String/PointingToDeclaration/-klogging/io.klogging.rendering/green.html
@@ -136,6 +135,7 @@ $dokka.location:io.klogging.rendering//red/#kotlin.String/PointingToDeclaration/
 $dokka.location:io.klogging.rendering//right20/kotlin.String#/PointingToDeclaration/-klogging/io.klogging.rendering/right20.html
 $dokka.location:io.klogging.rendering//rightAlign/kotlin.String#kotlin.Int/PointingToDeclaration/-klogging/io.klogging.rendering/right-align.html
 $dokka.location:io.klogging.rendering//serializeMap/#kotlin.collections.Map[kotlin.String,kotlin.Any?]/PointingToDeclaration/-klogging/io.klogging.rendering/serialize-map.html
+$dokka.location:io.klogging.rendering//shortenName/#kotlin.CharSequence#kotlin.Int/PointingToDeclaration/-klogging/io.klogging.rendering/shorten-name.html
 $dokka.location:io.klogging.rendering//yellow/#kotlin.String/PointingToDeclaration/-klogging/io.klogging.rendering/yellow.html
 $dokka.location:io.klogging.sending////PointingToDeclaration/-klogging/io.klogging.sending/index.html
 $dokka.location:io.klogging.sending//STDOUT/#/PointingToDeclaration/-klogging/io.klogging.sending/-s-t-d-o-u-t.html
